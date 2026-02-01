@@ -2,8 +2,6 @@ package com.example.lib
 
 import java.util.Scanner
 
-// Opgave 1
-
 fun main() {
 
     try {
